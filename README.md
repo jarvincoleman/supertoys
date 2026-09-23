@@ -2,8 +2,10 @@ Toy Models of Superposition
 - Anthropic 2022
 ---- Mechanistic Interpretability
 
-Implementing the paper for understanding and a personal journey through the foundations of mechinterp research
+Implementing the paper for fun to understand the foundational concepts in mechinterp research 
 
+
+Questions:
 
 
 
