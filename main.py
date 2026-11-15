@@ -4,7 +4,11 @@ import numpy as np
 
 
 
-class NeuralNet: 
-    def __init__(self): 
-        pass
+x = torch.rand(4,5) 
+mask = torch.rand(4, 5) > 0.9
+print(mask)
+print(x* mask)
+
+
+
 
