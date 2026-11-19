@@ -40,6 +40,13 @@ for step in range(5000):
         print(step, loss.item())
     
 
+def backward(outputs, inputs):
+    pass
+    ### backprop, likely not
+
+
+
+
 # x = torch.rand(4,5) 
 # mask = torch.rand(4, 5) > 0.9
 # print(mask)
